@@ -1,0 +1,3 @@
+[submodule "thrift-tutorial-thrift"]
+	path = thrift-tutorial-thrift
+	url = git@github.com:VitaliyOliynyk/thrift-tutorial-thrift.git
