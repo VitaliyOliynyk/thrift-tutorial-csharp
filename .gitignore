@@ -1,0 +1,15 @@
+.classpath
+.project
+.settings/
+*.ids
+*.iml
+*.ipr
+*.iws
+.idea
+target/
+build/
+nbproject/
+gen-*
+/bin
+/obj
+*.suo
